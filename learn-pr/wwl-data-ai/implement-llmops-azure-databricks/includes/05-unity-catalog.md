@@ -11,4 +11,4 @@ Unity Catalog facilitates collaboration among data scientists, engineers, and ot
 After implementing catalogs to logically group your assets, you can make use of the comprehensive **auditing** capabilities, allowing you to track changes and access to your data and models. Monitoring ensures that you can maintain compliance with regulatory requirements and internal policies, while also providing a clear audit trail for troubleshooting and accountability.
 
 > [!Tip]
-> Learn more about how to [manage the model lifecycle in Unity Catalog](https://docs.databricks.com/en/machine-learning/manage-model-lifecycle/index.html?azure-portal=true).
+> Learn more about how to [manage the model lifecycle in Unity Catalog](https://docs.databricks.com/en/machine-learning/manage-model-lifecycle/?azure-portal=true).
